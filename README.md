@@ -19,3 +19,8 @@
 - [ ]  27일: 캐시관리 및 공유, pagination, 고급 캐시관리
 - [ ]  28일: GoRouter (이론 및 적용)
 - [ ]  29일: Optimistic Response, 장바구니 스크린, 주문 탭, Debounce와 Throttle,
+
+
+### 진행 스크린샷
+- 15일 - 스플래시 스크린
+<img src="asset/screen/15.png" width="700" height="370" />
